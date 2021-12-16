@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(61, 97, 255) !important;
+    color: navy;
+}
+
+.heading {
+    color: white;
+    font-size: 90px;
+}
+
+.smallHeading {
+    color: #e6a756;;
+    font-size: 30px;
+    display: block;
+    font-size: 2rem;
+    font-weight: 800;
+}
+
+.navbarColor {
+    background-color: rgb(151, 151, 151);
+}
+
+.navbarText {
+    color: blanchedalmond;
+    text-transform: uppercase;
+
+    display: block;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    transition: color 0.25s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+
+}
+
+.navbarText:hover {
+    color: rgb(61, 97, 255);
+    border-bottom: black !important;
+}
+
+.footer {
+    background-color: rgb(151, 151, 151);
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.text {
+    color: white;
+    text-align: center;
+    width: 100%;
+}
